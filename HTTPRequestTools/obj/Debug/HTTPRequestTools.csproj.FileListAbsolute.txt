@@ -1,0 +1,30 @@
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.exe.config
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.exe
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.pdb
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.csprojResolveAssemblyReference.cache
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.HTTP请求工具.resources
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.Properties.Resources.resources
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.csproj.GenerateResource.Cache
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.exe
+D:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.pdb
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.exe.config
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.exe
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.pdb
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.exe
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.pdb
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.csprojResolveAssemblyReference.cache
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.HTTP请求工具.resources
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.Properties.Resources.resources
+E:\Code\ConsoleTestCode\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.csproj.GenerateResource.Cache
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.exe.config
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.exe
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\bin\Debug\HTTPRequestTools.pdb
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.csprojAssemblyReference.cache
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.HTTP请求工具.resources
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.Properties.Resources.resources
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.csproj.GenerateResource.cache
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.csproj.CoreCompileInputs.cache
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.exe
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.pdb
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.frm_enter.resources
+D:\顾派项目工作\2020.01.29教育支持\新建文件夹\0499 C# 写的接口请求工具源码http post get del put方式\HTTPRequestTool\HTTPRequestTools\obj\Debug\HTTPRequestTools.frm_main.resources
